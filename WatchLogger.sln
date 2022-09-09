@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchLogger", "WatchLogger\WatchLogger.csproj", "{02AC98B3-B326-442F-95CA-FA67BC92B047}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WatchLoggerExampleAPI", "WatchLoggerExampleAPI\WatchLoggerExampleAPI.csproj", "{4368B0DE-2C3B-4944-88A3-FCAED58305BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02AC98B3-B326-442F-95CA-FA67BC92B047}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02AC98B3-B326-442F-95CA-FA67BC92B047}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02AC98B3-B326-442F-95CA-FA67BC92B047}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02AC98B3-B326-442F-95CA-FA67BC92B047}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4368B0DE-2C3B-4944-88A3-FCAED58305BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4368B0DE-2C3B-4944-88A3-FCAED58305BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4368B0DE-2C3B-4944-88A3-FCAED58305BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4368B0DE-2C3B-4944-88A3-FCAED58305BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAD0000C-593D-4277-AC1E-231AA51F13C5}
+	EndGlobalSection
+EndGlobal
